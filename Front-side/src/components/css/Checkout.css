@@ -1,0 +1,36 @@
+#container{
+    padding: 24px;
+    border-radius: 3px;
+    border-style:solid;
+    border-color: rgb(184, 184, 184);
+    border-width:1px;
+    width: 74%;
+}
+#section1{
+    padding: 16px;
+}
+.form{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    margin: -8px -12px;
+}
+.label-delivery{
+    padding: 16px 12px;
+}
+.form-control{
+    width: 400px;
+}
+#title{
+position: relative;
+font-size: 18px;
+padding: 5px;
+color: black;
+margin: 20PX;
+
+}
+#send{
+    width: 400px;
+    height: 55px;
+    margin: 10px;
+    border-radius: 2px;
+}
